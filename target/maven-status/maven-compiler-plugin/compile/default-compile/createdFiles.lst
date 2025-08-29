@@ -1,0 +1,6 @@
+com/example/bfh/dto/GenerateWebhookResponse.class
+com/example/bfh/BfhApplication.class
+com/example/bfh/dto/SubmissionPayload.class
+com/example/bfh/client/HiringClient.class
+com/example/bfh/dto/GenerateWebhookRequest.class
+com/example/bfh/service/QualifierService.class

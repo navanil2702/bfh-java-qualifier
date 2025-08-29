@@ -1,0 +1,15 @@
+server:
+  port: 0
+
+logging:
+  level:
+    root: INFO
+
+bfh:
+  endpoints:
+    generate: "https://bfhldevapigw.healthrx.co.in/hiring/generateWebhook/JAVA"
+    fallbackSubmit: "https://bfhldevapigw.healthrx.co.in/hiring/testWebhook/JAVA"
+  user:
+    name: "Navanil Das"
+    regNo: "22BHI10138"
+    email: "navanildas2022@vitbhopal.ac.in"
